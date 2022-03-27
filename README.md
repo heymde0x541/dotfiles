@@ -1,4 +1,2 @@
 # dotfiles
-sway
-mpv
-alacritty
+Aargh I am so lazy!!!
